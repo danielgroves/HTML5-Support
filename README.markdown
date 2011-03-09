@@ -11,3 +11,7 @@ Simply include these files in your working directory and add the to your documen
 `<script src="./html5_fix.js" type="text/javascript"></script>`
 
 `<link rel="stylesheet" href="./html5_fix.css" type="text/css" media="all" />`
+
+# Team
+
+This script was originally written by (Nathan Davies)[http://nathandavies.co.uk] and has since been updated by (Daniel Groves)[http://daniel-groves.co.uk]
