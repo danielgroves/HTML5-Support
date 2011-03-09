@@ -14,4 +14,4 @@ Simply include these files in your working directory and add the to your documen
 
 # Team
 
-This script was originally written by (Nathan Davies)[http://nathandavies.co.uk] and has since been updated by (Daniel Groves)[http://daniel-groves.co.uk]
+This script was originally written by [Nathan Davies](http://nathandavies.co.uk) and has since been updated by [Daniel Groves](http://daniel-groves.co.uk)

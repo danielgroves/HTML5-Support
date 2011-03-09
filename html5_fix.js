@@ -1,7 +1,7 @@
 /*
 	Original file by Nathan Davies (http://nathandavies.co.uk/)
 	
-	Updated by Daniel Groves
+	Updated by Daniel Groves (http://daniel-groves.co.uk)
 
 	All HTML5 mark-up elements have been applied to this script using the following source:
 		http://www.w3schools.com/html5/html5_new_elements.asp [Last checked: 8th March 2011].
